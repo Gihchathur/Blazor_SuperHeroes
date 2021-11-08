@@ -1,0 +1,52 @@
+﻿@inject ISuperHeroService SuperHeroService
+@inject IJSRuntime JSRuntime
+
+
+
+<EditForm Model="Hero" OnSubmit="HandleSubmit">
+    <div class="form-group">
+        <label>First Name</label>
+        <InputText @bind-Value="Hero.FirstName" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Last Name</label>
+        <InputText @bind-Value="Hero.LastName" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Hero Name</label>
+        <InputText @bind-Value="Hero.HeroName" class="form-control"></InputText>
+    </div>
+    <div class="form-group">
+        <label>Comic</label><br />
+        <InputRadioGroup @bind-Value="comicId" class="form-control">
+            @foreach(var comic in SuperHeroService.Comics)
+            {
+                <InputRadio Value="@comic.Id"/><span style="padding-left: 5px;">@comic.Name</span><br/>
+            }
+        </InputRadioGroup>
+    </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+@code {
+    public SuperHeroDB.Shared.SuperHero Hero { get; set; } = new SuperHeroDB.Shared.SuperHero();
+    int comicId = 1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await SuperHeroService.GetComic();
+
+
+    }
+
+    async void HandleSubmit()
+    {
+        Hero.Comic = SuperHeroService.Comics.FirstOrDefault(c => c.Id == comicId);
+        Console.WriteLine("Submit was Called..!");
+        await JSRuntime.InvokeVoidAsync("console.log", Hero);
+
+        await SuperHeroService.CreateSuperHero(Hero);
+    }
+
+}
