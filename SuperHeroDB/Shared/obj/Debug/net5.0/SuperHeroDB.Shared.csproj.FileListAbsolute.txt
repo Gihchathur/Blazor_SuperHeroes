@@ -10,3 +10,15 @@ C:\Users\gihan.c\source\repos\SuperHeroDB\SuperHeroDB\Shared\obj\Debug\net5.0\Su
 C:\Users\gihan.c\source\repos\SuperHeroDB\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.dll
 C:\Users\gihan.c\source\repos\SuperHeroDB\SuperHeroDB\Shared\obj\Debug\net5.0\ref\SuperHeroDB.Shared.dll
 C:\Users\gihan.c\source\repos\SuperHeroDB\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.pdb
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\bin\Debug\net5.0\SuperHeroDB.Shared.deps.json
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\bin\Debug\net5.0\SuperHeroDB.Shared.dll
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\bin\Debug\net5.0\ref\SuperHeroDB.Shared.dll
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\bin\Debug\net5.0\SuperHeroDB.Shared.pdb
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.csproj.AssemblyReference.cache
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.AssemblyInfoInputs.cache
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.AssemblyInfo.cs
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.csproj.CoreCompileInputs.cache
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.dll
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\ref\SuperHeroDB.Shared.dll
+D:\blazor\Blazor_SuperHeroes\SuperHeroDB\Shared\obj\Debug\net5.0\SuperHeroDB.Shared.pdb

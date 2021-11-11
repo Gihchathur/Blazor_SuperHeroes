@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SuperHeroDB.Server.Services;
 using System.Linq;
 
 namespace SuperHeroDB.Server
@@ -25,6 +26,7 @@ namespace SuperHeroDB.Server
 
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddScoped<ISuperHeroSer , SuperHeroSer>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

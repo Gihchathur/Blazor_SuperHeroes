@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hR8INzLZGsMA33bm1CnPt3Yh7PyQ2SE/fGwCXPe7YD+MPi1l9p65hdwlhpJIr8FPz1a2BfHNWVGyE8Z153chAQ==",
+  "dgSpecHash": "pcp2G63jx6nCCULM8ponvHehtibwnc4P8osNHP1oVNgTD3OcwOKziQmNjHNLj8VoZT6TpA2YMRErCK8XOA4+Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj",
+  "projectFilePath": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

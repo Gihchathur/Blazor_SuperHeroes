@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
+      "projectUniqueName": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
       "projectName": "SuperHeroDB.Client",
-      "projectPath": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
+      "projectPath": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
       "packagesPath": "C:\\Users\\gihan.c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Client\\obj\\",
+      "outputPath": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gihan.c\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1197,8 +1197,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj": {
-              "projectPath": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj"
+            "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj": {
+              "projectPath": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Shared\\SuperHeroDB.Shared.csproj"
             }
           }
         }
