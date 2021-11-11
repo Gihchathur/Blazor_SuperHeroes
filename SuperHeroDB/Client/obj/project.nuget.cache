@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGEcXxS/7SPnq8xkZRqmpnPD8syqmXgU4WIjatRQMcwjf9CPM2O49RGmyWXQ1spYYvOuHV9DnN0moii5EtcVYg==",
+  "dgSpecHash": "SGySHdFJoBHIg8UMn6KS823K5ooqsNWvn1JClXykJ3s0CKpNOia05g4Muon3Td9xod32ERgSSQlKy2rjVN5L5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gihan.c\\source\\repos\\SuperHeroDB\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
+  "projectFilePath": "D:\\blazor\\Blazor_SuperHeroes\\SuperHeroDB\\Client\\SuperHeroDB.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gihan.c\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
     "C:\\Users\\gihan.c\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.11\\microsoft.aspnetcore.components.5.0.11.nupkg.sha512",

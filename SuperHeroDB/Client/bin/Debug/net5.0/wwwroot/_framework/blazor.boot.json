@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-heWnofXFSc\/TfAxrWpjQxeuS+nlIOs9YycfI2QGXGM8=",
       "netstandard.dll": "sha256-mbIVAluJ7cAx0vUQshB\/c1zEIK5JcYwIYxo\/BQ\/meRU=",
       "System.Private.CoreLib.dll": "sha256-FrZbEyy47f3RDuj77R5oHUGxSGEDgRRxykTjImrLqfM=",
-      "SuperHeroDB.Shared.dll": "sha256-0C+w1KQlKV4FOWK1tBTIINZ+MX3YY9\/U9yJiHt2e8ow=",
-      "SuperHeroDB.Client.dll": "sha256-qKUg3BsNs09EmCikP4+yajx8bEhog29iYNkr19HAUyw="
+      "SuperHeroDB.Shared.dll": "sha256-KEkDQye3E2q6\/U9tN8qglwXmViwOQUq2B6jxUMvNsmY=",
+      "SuperHeroDB.Client.dll": "sha256-fCe9JbIksdcxwv8WNVm38T7zGn1FGmBQVw1mZ3UMYYo="
     },
     "lazyAssembly": null,
     "pdb": {
-      "SuperHeroDB.Shared.pdb": "sha256-1geQUfBPi+pFmP4IX3HynAUa\/KQB8AyjIBagjG9Mgxg=",
-      "SuperHeroDB.Client.pdb": "sha256-ASJHVf6UNaVG1zGEjR7dnK9z7t7OvzrOFAfrk3HI2kA="
+      "SuperHeroDB.Shared.pdb": "sha256-aVL3ejFKrRsmxIi7Tw5FDpsBYXx\/OgfITVVWR\/lYnkE=",
+      "SuperHeroDB.Client.pdb": "sha256-\/D7H1+5wtA\/1FEv04pjDD5bF4FyeCFEEAs\/kczjeYTw="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-5ttRwTa4Rar530elwLdfGDeH9I9NX9MPyDl6zLi9uug=",
